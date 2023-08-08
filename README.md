@@ -18,5 +18,5 @@ After cleaning and modelling the data to a star schema, my solution was to creat
 
 As part of my PwC Virtual Internship, I created a dashboard in Power BI for Claire that reflects all relevant Key Performance Indicators (KPIs) and metrics in the dataset. 
 
-Scan the QR code for the link to the dashboard
+Scan the QR code for the link to the dashboard  
 ![image](https://github.com/AdrijeGuha/Diversity-and-Inclusion/blob/62d3dbf8c8d646bd112cb87b55e7a443ee896085/images/HR-Diversity%20%26%20Incusion.jpg)
